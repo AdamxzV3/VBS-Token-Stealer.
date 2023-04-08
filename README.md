@@ -32,3 +32,11 @@ The following system information is retrieved and sent to the Discord webhook:
 
 This program is intended for educational purposes only. Use at your own risk.
 
+## 📝 TODO
+- Revert Mouse Buttons
+- Wifi passwords grabber
+- Startup
+- Encoder
+- Token Grabbing (if anyone wants to help w this feel free to open issue.)
+
+
