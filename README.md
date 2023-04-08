@@ -36,7 +36,7 @@ This program is intended for educational purposes only. Use at your own risk.
 - Revert Mouse Buttons
 - Wifi passwords grabber
 - Startup
-- Encoder
+- Encoder >> Base64
 - Token Grabbing (if anyone wants to help w this feel free to open issue.)
 
 
